@@ -14,7 +14,7 @@ for iOS, by [Phuong To](https://github.com/phuongwd)
 ## 1. Description
 
 On iOS 10+ you need to provide a reason to the user for Calendar access.
-This plugin now adds an empty NSCalendarsUsageDescription key to the /platforms/ios/*-Info.plist file which you can override with your custom string per [Apple's guideline.](https://developer.apple.com/library/content/documentation/General/Reference/InfoPlistKeyReference/Articles/CocoaKeys.html#//apple_ref/doc/uid/TP40009251-SW15 "NSCalendarsUsageDescription"){:target="_blank"}
+This plugin now adds an empty NSCalendarsUsageDescription key to the /platforms/ios/*-Info.plist file which you can override with your custom string per [Apple's guideline.](https://developer.apple.com/library/content/documentation/General/Reference/InfoPlistKeyReference/Articles/CocoaKeys.html#//apple_ref/doc/uid/TP40009251-SW15 "NSCalendarsUsageDescription")
 
 ## 2. Installation
 
