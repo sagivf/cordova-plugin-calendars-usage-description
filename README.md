@@ -28,6 +28,12 @@ Bleeding edge, from github:
 ```
 $ cordova plugin add https://github.com/phuongwd/cordova-plugin-calendars-usage-description.git
 ```
+Remove:
+```
+$ cordova plugin rm cordova-plugin-calendars-usage-description
+or
+$ cordova plugin rm https://github.com/phuongwd/cordova-plugin-calendars-usage-description.git
+```
 
 ### Manually
 
